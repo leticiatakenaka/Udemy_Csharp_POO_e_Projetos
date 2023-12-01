@@ -4,10 +4,10 @@
 
 int valor1, valor2, somaValores;
 
-Console.WriteLine("Digite um valor: ");
+Console.Write("Digite um valor: ");
 valor1 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Digite outro valor: ");
+Console.Write("Digite outro valor: ");
 valor2 = int.Parse(Console.ReadLine());
 
 somaValores = valor1 + valor2;
